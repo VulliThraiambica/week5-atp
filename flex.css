@@ -1,0 +1,29 @@
+.parent{
+background-color:cornsilk;
+    width:2;
+    display:flex;
+align-items: center ;
+margin-top: 200px;
+align-items:center ;
+gap:30px;
+padding:30px
+}
+.emp-card
+{
+width:10;
+background-color: bisque;
+padding:20px;
+text-align:center;
+box-shadow: 0px 0px 20px black;
+justify-content: space-between;
+}
+
+img{
+    border-radius: 100% ;
+    width:100px;
+    height:100px;
+}
+h2,p{
+margin-top:20px;
+
+}

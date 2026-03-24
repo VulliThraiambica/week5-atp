@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkred;
+    color: rgb(231, 205, 205);
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    padding: 8px 20px;
+    background-color: #a00000;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 90px;
+}
+
+nav img {
+    width: 120px;
+    float: right;
+}
+
+footer {
+    display: flex;
+    background-color: #8B0000;
+}
+
+.cards {
+    
+    padding: 30px;
+    border-right: 1px solid #a00000;
+}
+
